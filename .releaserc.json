@@ -1,5 +1,5 @@
 {
-  "branches": ["release", "main"],
+  "branches": ["main", "next"],
   "dryRun": true,
   "ci": false
 }
