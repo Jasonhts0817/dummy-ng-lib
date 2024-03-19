@@ -4,13 +4,7 @@ import { Component } from '@angular/core';
   selector: 'lib-dummy-ng-lib',
   standalone: true,
   imports: [],
-  template: `
-    <p>
-      dummy-ng-lib works!
-    </p>
-  `,
-  styles: ``
+  template: ` <p>I am a dummy component from a dummy library!</p> `,
+  styles: ``,
 })
-export class DummyNgLibComponent {
-
-}
+export class DummyNgLibComponent {}

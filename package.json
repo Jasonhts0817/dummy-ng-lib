@@ -36,5 +36,9 @@
     "ng-packagr": "^17.3.0",
     "semantic-release": "^23.0.5",
     "typescript": "~5.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jasonhts0817/dummy-ng-lib"
   }
 }
